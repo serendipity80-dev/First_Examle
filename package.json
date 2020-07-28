@@ -1,11 +1,11 @@
 {
-  "name": "first_examle",
+  "name": "info_page",
   "version": "1.0.0",
   "description": "First example",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"live-server"
+    "dev": "live-server"
   },
   "keywords": [
     "http"
@@ -14,5 +14,14 @@
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serendipity80-dev/First_Examle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/serendipity80-dev/First_Examle/issues"
+  },
+  "homepage": "https://github.com/serendipity80-dev/First_Examle#readme"
 }
